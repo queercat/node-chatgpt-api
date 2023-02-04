@@ -1,3 +1,7 @@
+## THIS NEEDS TO BE CLEAR THIS WAS CREATED BY [waylaidwanderer](https://github.com/waylaidwanderer/node-chatgpt-api)
+the config they use in their Fastly configuration does not allow for Docker to communicate outside of its internal network.
+i have literally only fixed this for Docker. please look at their work not mine.
+
 <p align="center">
   <img alt="CLI demo" src="./demos/cli.svg">
 </p>
